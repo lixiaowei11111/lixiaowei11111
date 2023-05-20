@@ -1,5 +1,8 @@
-![Metrics](https://metrics.lecoq.io/Matryoshka?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matryoshka)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/lixiaowei11111?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixiaowei11111&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiaowei11111&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lixiaowei11111/lixiaowei11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
