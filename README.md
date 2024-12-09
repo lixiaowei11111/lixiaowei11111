@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.lxw.ski/api/top-langs/?username=lixiaowei11111&layout=pie&count_private=true)](https://github.com/lixiaowei11111/github-readme-stats)
+[![Top Langs](https://github-readme-stats.lxw.ski/api/top-langs/?username=lixiaowei11111&count_private=true)](https://github.com/lixiaowei11111/github-readme-stats)
 
